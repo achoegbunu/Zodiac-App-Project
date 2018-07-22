@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+}
+/*.searchbox {
+	position: relative;
+	top: 300px;
+	left: 500px;
+}
+.searchbox input {
+	height: 30px;
+	width: 50px;
+}*/
+input {
+	width: 600px;
+}
+button {
+	height: 30px;
+	padding: 0 20px;
+	position: relative;
+	font-weight: bold;
+	border-radius: 5px;
+
+}
